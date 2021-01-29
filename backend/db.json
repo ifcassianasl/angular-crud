@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Garrafa verde",
+      "price": 15.33
+    },
+    {
+      "id": 2,
+      "name": "Notebook Asus",
+      "price": 1875.99
+    },
+    {
+      "id": 3,
+      "name": "Smartphone Xiaomi Redmi 8 Lite",
+      "price": 2223.55
+    },
+    {
+      "name": "lapis",
+      "price": "2.11",
+      "id": 4
+    }
+  ]
+}
