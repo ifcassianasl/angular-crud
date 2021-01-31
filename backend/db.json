@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Garrafa verde",
-      "price": 15.33
+      "price": "15.00"
     },
     {
       "id": 2,
-      "name": "Notebook Asus",
-      "price": 1875.99
+      "name": "Notebook Asus 2021",
+      "price": "11875.99"
     },
     {
       "id": 3,
@@ -16,8 +16,8 @@
       "price": 2223.55
     },
     {
-      "name": "lapis",
-      "price": "2.11",
+      "name": "Produto novo",
+      "price": "9.99",
       "id": 4
     }
   ]
